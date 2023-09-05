@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: acfc6fcc674e7f145bf2971f3ce8bbb5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Metavers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b59df09f00ec344e8287e06762fdb7f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
